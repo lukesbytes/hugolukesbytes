@@ -1,0 +1,4 @@
+baseURL = "http://www.lukesbytes.com/"
+languageCode = "en-us"
+title = "Luke's Bytes"
+theme = "ananke"
